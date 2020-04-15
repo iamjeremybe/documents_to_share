@@ -39,16 +39,20 @@ for col in kpis.columns:
 
 # The year field often has an appended text string, indicating the actual date ranges involved.
 # Strip that extra text, if necessary.
-def cleanup_year(string):
-    try:
+def cleanup_year(string,**kwargs):
+    desc_or_year = kwargs.get('desc_or_year','year')
+    if desc_or_year == 'year':
 # split will fail when the value is a lone year (ex: 2015 vs. "2015\n(using 13-14 data)")
 # because the lone year is interpreted as an int. Rather than convert that to a string,
 # just return it.
-        return string.split()[0]
-    except:
-        return string
+        try:
+            return string.split()[0]
+        except:
+            return string
+        else:
+            return string
     else:
-        return string
+        return " ".join(str(string).split())
 
 # ### Set the Key Indicator to 1 for key indicators.
 def set_key_indc(category,indicator,**kwargs):
@@ -147,6 +151,7 @@ def reshape_indicator_sheet(df):
                                                  axis='columns')
 
         city_df['Year_Desc'] = indicators_sheet.iloc[2].values[1:]
+        city_df['Year_Desc'] = city_df['Year_Desc'].apply(lambda x: cleanup_year(x,desc_or_year='desc'))
         city_df['Year'] = city_df['Year_Desc'].apply(lambda x: cleanup_year(x))
 
         indc_metro_value = np.where(indicators_sheet[0] == metro)[0][0]
