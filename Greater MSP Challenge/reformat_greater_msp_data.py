@@ -1,17 +1,16 @@
 #!/usr/bin/python3
+# coding: utf-8
 
 import numpy as np
 import pandas as pd
 
 file_path = '/home/jeremy/Documents/Greater MSP Challenge'
 file_name = file_path + '/Historical Data - Prior Dashboard - Color Guides/2015-2019 Dashboard Trends_all.xlsx'
-
 dfs = pd.read_excel(file_name, sheet_name=None, header=None)
 
 kpis = dfs['Key Indicators'].loc[[3,4]].dropna(axis='columns')
 
-# Capture the Dashboard Category and Indicator Title of each indicator.
-# Store them in a dictionary we can reference later.
+# ### Create a dictionary for Key Performance Indicators
 kpi_dict = {}
 for col in kpis.columns:
     if col == 0:
@@ -23,29 +22,19 @@ for col in kpis.columns:
     else:
         kpi_dict[category] = [indicator]
 
-# For the remaining sheets:
-# Value in first row/first column is the sheet name/key indicator name (ex: "Economy")
-# We already have this information from `dfs.keys()`.
-# 
-# First two rows are headers:
-# 1. Indicator (ex: Gross Regional Product Growth). This is only populated when it changes, NaN otherwise.
-# 2. "ESTIMATES". This is the year for each Indicator, mostly represented as '4-digit year\n(year of data)'.
-# 
-# ### Cities show up twice on each sheet--first time with the observation, second time with the rank.
-# There's a "RANK" row separating the two. This row indicates whether the ranking is "highest to lowest", or "lowest to highest". Capture this.
+kpi_dict
 
+# ## Functions
 
-# Functions
-
-# The year field often has an appended text string, indicating the actual date ranges involved.
+# ### The year field often has an appended text string, indicating the actual date ranges involved.
 # Strip that extra text, if necessary.
 def cleanup_year(string,**kwargs):
     desc_or_year = kwargs.get('desc_or_year','year')
     if desc_or_year == 'year':
-# split will fail when the value is a lone year (ex: 2015 vs. "2015\n(using 13-14 data)")
-# because the lone year is interpreted as an int. Rather than convert that to a string,
-# just return it.
         try:
+    # split will fail when the value is a lone year (ex: 2015 vs. "2015\n(using 13-14 data)")
+    # because the lone year is interpreted as an int. Rather than convert that to a string,
+    # just return it.
             return string.split()[0]
         except:
             return string
@@ -53,6 +42,7 @@ def cleanup_year(string,**kwargs):
             return string
     else:
         return " ".join(str(string).split())
+
 
 # ### Set the Key Indicator to 1 for key indicators.
 def set_key_indc(category,indicator,**kwargs):
@@ -62,6 +52,21 @@ def set_key_indc(category,indicator,**kwargs):
             return 1
     return 0  
 
+
+# ### Replicate the Alteryx logic for deciding Data Type:
+# ```
+# if abs([Measure Value]) <=1 then 'Percent'
+# elseif Contains([Indicator Title], 'Cost') then 'Dollar'
+# elseif Contains([Indicator Title], 'Wage') then 'Dollar'
+# elseif Contains([Indicator Title], 'Income') then 'Dollar'
+# elseif Contains([Indicator Title], 'Price') then 'Dollar'
+# elseif [Dashboard Category] = 'Business Vitality' 
+# 	AND !(Contains([Indicator Title], 'Patent')
+# 	or Contains([Indicator Title], 'Establishment'))
+# 	then 'Dollar'
+# else 'Numeric'
+# endif 
+# ```
 # This is where we implement Dave's logic from Alteryx.
 def calculate_data_type(series):
     if series['Value'] <=1:
@@ -73,7 +78,8 @@ def calculate_data_type(series):
     else:
         return "Numeric"
 
-# Figure out the type of value for each category/indicator.
+
+# ### Figure out the type of value for each category/indicator.
 # * Build a small dataframe of unique combos of Category + Indicator, and the max Value for each combo. (I checked--max() ignores NaNs.)
 # * Convert that dataframe into a dictionary containing Indicator/Data Type pairs.
 def build_data_type_df(df):
@@ -106,8 +112,61 @@ def build_data_type_df(df):
         return_dict[this_key] = data_type_df[this_key]['Data_Type']
     return return_dict
 
-# Restructure the data for each sheet.
-# Each row of the data should have the following columns:
+
+# ### Create a formatted value, based on data type
+# * Dollar:
+#      * leading \$ sign
+#      * commas between thousands
+#      * padding to 2 decimal places if underlying data contains decimal
+# 
+# * Numeric:
+#     * commas between thousands
+#     * padding to 2 decimal places if underlying data contains decimal
+# 
+# * Percent:
+#     * padding to 2 decimal places
+#     * trailing % sign
+# 
+# * KEEP negative (-) signs 
+def calculate_formatted_value(series):
+# Capture nulls, empty strings, 'no data' straight away and return those values with no formatting.
+    if pd.isnull(series['Value']) or series['Value'] == '' or series['Value'] == 'no data':
+        return series['Value']
+
+    elif series['Data_Type'] == 'Percent':
+        try:
+            return "{:.2%}".format(series['Value'])
+        except:
+            print("This is supposed to be a Percent, but it's not:",series['Value'])
+            return series['Value']
+
+    elif series['Data_Type'] == 'Dollar':
+        try:
+            if str(abs(series['Value'])).isdigit():
+                return "${:,}".format(series['Value'])
+            else:
+                return "${:,.2f}".format(series['Value'])
+        except:
+            print("This is supposed to be Dollar value, but it's not:",series['Value'])
+            return series['Value']
+
+    elif series['Data_Type'] == 'Numeric':
+        try:
+            if str(abs(series['Value'])).isdigit():
+                return "{:,}".format(series['Value'])
+            else:
+                return "{:,.2f}".format(series['Value'])
+        except:
+            print("This is supposed to be Numeric, but it's not:",series['Value'])
+            return series['Value']
+    else:
+# Thankfully didn't see any instances of an unknown Data Type, but we'll need a catch-all.
+        print("UNKNOWN value type", series)
+    return series['Value']
+
+
+# ## Restructure the data for each sheet.
+# ### Each row of the data should have the following columns:
 # 1. Category
 # 2. Indicator
 # 3. Metro area
@@ -118,9 +177,10 @@ def build_data_type_df(df):
 # 8. Rank Order
 # 9. Key Indicator
 # 10. Data Type (type of Value; one of: 'Percent','Dollar','Numeric')
+# 11. Formatted Value (based on Data Type)
 def reshape_indicator_sheet(df):
     out_df_columns = ['Category','Indicator','Metro','Year_Desc','Year',
-                      'Value','Rank','Rank_Order','Key_Indicator']
+                      'Value','Formatted_Value','Rank','Rank_Order','Key_Indicator','Data_Type']
     out_df = pd.DataFrame(columns=out_df_columns)
 # Cast the type of the numeric columns, so we can run some basic calculations and set 'Data Type'
 #    out_df = out_df.astype({'Year': 'Int64', 'Value': 'float', 'Rank': 'Int64', 'Key_Indicator': 'Int64'})
@@ -158,6 +218,7 @@ def reshape_indicator_sheet(df):
         city_df['Metro'] = [metro] * city_df.shape[0]
         city_values = indicators_sheet.iloc[indc_metro_value].values[1:]
         city_df['Value'] = city_values
+        city_df
 
 # Find the index for our current Metro in the rank half of the sheet, and get Rank-related values.
         rank_metro_value = np.where(rank_sheet[0] == metro)[0][0]
@@ -170,14 +231,18 @@ def reshape_indicator_sheet(df):
 
     data_type_dict = build_data_type_df(out_df)
     out_df.loc[:,'Data_Type'] = out_df['Indicator'].apply(lambda x: data_type_dict[x])
+    out_df.loc[:,'Formatted_Value'] = out_df.apply(lambda row: calculate_formatted_value(row),axis='columns')
     return out_df
 
-# Concatenate the restructured output from all of the sheets (minus Key Indicator)
+
+# ## Concatenate the restructured output from all of the sheets (minus Key Indicator)
 output_df = pd.DataFrame()
 for sheet_key in dfs.keys():
     if sheet_key == 'Key Indicators':
         continue
-    print("Working on sheet: ",sheet_key)
     output_df = output_df.append(reshape_indicator_sheet(dfs[sheet_key]),ignore_index=True)
 
+
+# ## Write a CSV file.
 output_df.to_csv(file_path + '/greater_msp_data.csv',index=False)
+
