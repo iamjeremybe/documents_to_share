@@ -1620,17 +1620,17 @@ Education,6-Year Graduation Rate at 4-Year Institutions (State Level),"Seattle-T
 Education,6-Year Graduation Rate at 4-Year Institutions (State Level),"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2017 data),2018,0.683,68.30%,2,(highest to lowest),1,Percent
 Education,6-Year Graduation Rate at 4-Year Institutions (State Level),"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2018 data),2019,0.688,68.80%,2,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2017 data),2018,0.0589,5.89%,7,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2018 data),2019,0.382,38.20%,2,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,216.0,216.00,2,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016.0,210.0,210.00,2.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017.0,244.0,244.00,1.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018.0,2018.0,242.0,242.00,1.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019.0,2019.0,244.0,244.00,2.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016,210.0,210.00,2.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017,244.0,244.00,1.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018.0,2018,242.0,242.00,1.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019.0,2019,244.0,244.00,2.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -1654,24 +1654,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Spri
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017 (2015 data),2017,0.504,50.40%,9,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2016 data),2018,0.489,48.90%,10,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2017 data),2019,0.483,48.30%,10,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Springs-Roswell, GA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Springs-Roswell, GA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Springs-Roswell, GA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Springs-Roswell, GA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Springs-Roswell, GA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Atlanta-Sandy Springs-Roswell, GA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Austin-Round Rock, TX Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Austin-Round Rock, TX Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Austin-Round Rock, TX Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Austin-Round Rock, TX Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Austin-Round Rock, TX Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Austin-Round Rock, TX Metro Area",2018 (2017 data),2018,0.2458,24.58%,1,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Austin-Round Rock, TX Metro Area",2019 (2018 data),2019,0.4025,40.25%,1,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Austin-Round Rock, TX Metro Area",2015,2015,39.0,39.00,11,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Austin-Round Rock, TX Metro Area",2016.0,2016.0,48.0,48.00,12.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Austin-Round Rock, TX Metro Area",2017.0,2017.0,62.0,62.00,12.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Austin-Round Rock, TX Metro Area",2018.0,2018.0,72.0,72.00,12.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Austin-Round Rock, TX Metro Area",2019.0,2019.0,72.0,72.00,10.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Austin-Round Rock, TX Metro Area",2016.0,2016,48.0,48.00,12.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Austin-Round Rock, TX Metro Area",2017.0,2017,62.0,62.00,12.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Austin-Round Rock, TX Metro Area",2018.0,2018,72.0,72.00,12.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Austin-Round Rock, TX Metro Area",2019.0,2019,72.0,72.00,10.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Austin-Round Rock, TX Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Austin-Round Rock, TX Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Austin-Round Rock, TX Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Austin-Round Rock, TX Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Austin-Round Rock, TX Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Austin-Round Rock, TX Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -1695,24 +1689,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock,
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock, TX Metro Area",2017 (2015 data),2017,0.605,60.50%,3,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock, TX Metro Area",2018 (2016 data),2018,0.593,59.30%,5,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock, TX Metro Area",2019 (2017 data),2019,0.591,59.10%,3,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Austin-Round Rock, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2017 data),2018,0.0049,0.49%,12,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2018 data),2019,0.005,0.50%,12,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,102.0,102.00,8,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016.0,123.0,123.00,8.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017.0,133.0,133.00,8.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Boston-Cambridge-Newton, MA-NH Metro Area",2018.0,2018.0,121.0,121.00,8.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Boston-Cambridge-Newton, MA-NH Metro Area",2019.0,2019.0,130.0,130.00,8.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016,123.0,123.00,8.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017,133.0,133.00,8.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Boston-Cambridge-Newton, MA-NH Metro Area",2018.0,2018,121.0,121.00,8.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Boston-Cambridge-Newton, MA-NH Metro Area",2019.0,2019,130.0,130.00,8.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Boston-Cambridge-Newton, MA-NH Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -1736,24 +1724,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-N
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-Newton, MA-NH Metro Area",2017 (2015 data),2017,0.495,49.50%,10,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2016 data),2018,0.498,49.80%,9,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2017 data),2019,0.493,49.30%,9,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-Newton, MA-NH Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-Newton, MA-NH Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-Newton, MA-NH Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-Newton, MA-NH Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-Newton, MA-NH Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Boston-Cambridge-Newton, MA-NH Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2017 data),2018,0.1388,13.88%,6,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2018 data),2019,0.346,34.60%,3,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,150.0,150.00,5,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016.0,150.0,150.00,5.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017.0,165.0,165.00,5.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018.0,2018.0,171.0,171.00,5.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019.0,2019.0,175.0,175.00,5.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016,150.0,150.00,5.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017,165.0,165.00,5.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018.0,2018,171.0,171.00,5.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019.0,2019,175.0,175.00,5.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -1777,24 +1759,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017 (2015 data),2017,0.592,59.20%,5,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2016 data),2018,0.595,59.50%,3,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2017 data),2019,0.598,59.80%,2,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-Gastonia, NC-SC Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-Gastonia, NC-SC Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-Gastonia, NC-SC Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-Gastonia, NC-SC Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-Gastonia, NC-SC Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Charlotte-Concord-Gastonia, NC-SC Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2017 data),2018,0.0111,1.11%,11,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2018 data),2019,0.08,8.00%,10,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,223.0,223.00,1,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016.0,216.0,216.00,1.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017.0,220.0,220.00,2.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018.0,2018.0,223.0,223.00,3.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019.0,2019.0,236.0,236.00,3.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016,216.0,216.00,1.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017,220.0,220.00,2.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018.0,2018,223.0,223.00,3.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019.0,2019,236.0,236.00,3.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -1818,24 +1794,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017 (2015 data),2017,0.488,48.80%,11,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2016 data),2018,0.483,48.30%,11,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2017 data),2019,0.483,48.30%,10,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2017 data),2018,0.0318,3.18%,9,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2018 data),2019,0.184,18.40%,6,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,183.0,183.00,3,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016.0,209.0,209.00,3.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017.0,209.0,209.00,3.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Dallas-Fort Worth-Arlington, TX Metro Area",2018.0,2018.0,234.0,234.00,2.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Dallas-Fort Worth-Arlington, TX Metro Area",2019.0,2019.0,249.0,249.00,1.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016,209.0,209.00,3.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017,209.0,209.00,3.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Dallas-Fort Worth-Arlington, TX Metro Area",2018.0,2018,234.0,234.00,2.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Dallas-Fort Worth-Arlington, TX Metro Area",2019.0,2019,249.0,249.00,1.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Dallas-Fort Worth-Arlington, TX Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -1859,24 +1829,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-Arlington, TX Metro Area",2017 (2015 data),2017,0.558,55.80%,7,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2016 data),2018,0.546,54.60%,7,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2017 data),2019,0.542,54.20%,7,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-Arlington, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-Arlington, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-Arlington, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-Arlington, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-Arlington, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Dallas-Fort Worth-Arlington, TX Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Denver-Aurora-Lakewood, CO Metro Area",2018 (2017 data),2018,0.1516,15.16%,4,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Denver-Aurora-Lakewood, CO Metro Area",2019 (2018 data),2019,0.184,18.40%,6,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,159.0,159.00,4,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016.0,175.0,175.00,4.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017.0,180.0,180.00,4.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Denver-Aurora-Lakewood, CO Metro Area",2018.0,2018.0,188.0,188.00,4.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Denver-Aurora-Lakewood, CO Metro Area",2019.0,2019.0,212.0,212.00,4.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016,175.0,175.00,4.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017,180.0,180.00,4.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Denver-Aurora-Lakewood, CO Metro Area",2018.0,2018,188.0,188.00,4.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Denver-Aurora-Lakewood, CO Metro Area",2019.0,2019,212.0,212.00,4.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Denver-Aurora-Lakewood, CO Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Denver-Aurora-Lakewood, CO Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Denver-Aurora-Lakewood, CO Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -1900,24 +1864,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lake
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lakewood, CO Metro Area",2017 (2015 data),2017,0.569,56.90%,6,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lakewood, CO Metro Area",2018 (2016 data),2018,0.57,57.00%,6,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lakewood, CO Metro Area",2019 (2017 data),2019,0.556,55.60%,6,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lakewood, CO Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lakewood, CO Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lakewood, CO Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lakewood, CO Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lakewood, CO Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Denver-Aurora-Lakewood, CO Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2017 data),2018,0.1435,14.35%,5,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2018 data),2019,0.155,15.50%,8,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,133.0,133.00,6,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016.0,137.0,137.00,6.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017.0,155.0,155.00,6.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018.0,2018.0,163.0,163.00,6.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019.0,2019.0,167.0,167.00,6.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016,137.0,137.00,6.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017,155.0,155.00,6.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018.0,2018,163.0,163.00,6.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019.0,2019,167.0,167.00,6.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017 (2016 data),2017,0.647,64.70%,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2017 data),2018,0.645,64.50%,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2018 data),2019,0.643,64.30%,,(lowest to highest),0,Percent
@@ -1941,24 +1899,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Pa
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017 (2015 data),2017,0.627,62.70%,1,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2016 data),2018,0.634,63.40%,1,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2017 data),2019,0.627,62.70%,1,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Pittsburgh, PA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Pittsburgh, PA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Pittsburgh, PA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Pittsburgh, PA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Pittsburgh, PA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Pittsburgh, PA Metro Area",2018 (2017 data),2018,0.0132,1.32%,10,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Pittsburgh, PA Metro Area",2019 (2018 data),2019,0.011,1.10%,11,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Pittsburgh, PA Metro Area",2015,2015,33.0,33.00,12,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Pittsburgh, PA Metro Area",2016.0,2016.0,55.0,55.00,11.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Pittsburgh, PA Metro Area",2017.0,2017.0,68.0,68.00,11.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Pittsburgh, PA Metro Area",2018.0,2018.0,73.0,73.00,11.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Pittsburgh, PA Metro Area",2019.0,2019.0,66.0,66.00,12.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Pittsburgh, PA Metro Area",2016.0,2016,55.0,55.00,11.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Pittsburgh, PA Metro Area",2017.0,2017,68.0,68.00,11.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Pittsburgh, PA Metro Area",2018.0,2018,73.0,73.00,11.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Pittsburgh, PA Metro Area",2019.0,2019,66.0,66.00,12.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Pittsburgh, PA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Pittsburgh, PA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Pittsburgh, PA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Pittsburgh, PA Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Pittsburgh, PA Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Pittsburgh, PA Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -1982,24 +1934,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Met
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Metro Area",2017 (2015 data),2017,0.606,60.60%,2,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Metro Area",2018 (2016 data),2018,0.599,59.90%,2,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Metro Area",2019 (2017 data),2019,0.589,58.90%,4,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Pittsburgh, PA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2017 data),2018,0.2399,23.99%,2,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2018 data),2019,0.293,29.30%,4,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,53.0,53.00,10,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016.0,73.0,73.00,10.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017.0,77.0,77.00,10.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018.0,2018.0,77.0,77.00,10.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019.0,2019.0,70.0,70.00,11.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016,73.0,73.00,10.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017,77.0,77.00,10.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018.0,2018,77.0,77.00,10.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019.0,2019,70.0,70.00,11.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -2023,24 +1969,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017 (2015 data),2017,0.604,60.40%,4,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2016 data),2018,0.594,59.40%,4,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2017 data),2019,0.583,58.30%,5,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2017 data),2018,0.0493,4.93%,8,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2018 data),2019,0.123,12.30%,9,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,108.0,108.00,7,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016.0,131.0,131.00,7.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017.0,142.0,142.00,7.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"San Francisco-Oakland-Hayward, CA Metro Area",2018.0,2018.0,147.0,147.00,7.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"San Francisco-Oakland-Hayward, CA Metro Area",2019.0,2019.0,142.0,142.00,7.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016,131.0,131.00,7.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017,142.0,142.00,7.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"San Francisco-Oakland-Hayward, CA Metro Area",2018.0,2018,147.0,147.00,7.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"San Francisco-Oakland-Hayward, CA Metro Area",2019.0,2019,142.0,142.00,7.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"San Francisco-Oakland-Hayward, CA Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -2064,24 +2004,18 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakl
 Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakland-Hayward, CA Metro Area",2017 (2015 data),2017,0.474,47.40%,12,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2016 data),2018,0.461,46.10%,12,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2017 data),2019,0.455,45.50%,12,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakland-Hayward, CA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakland-Hayward, CA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakland-Hayward, CA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakland-Hayward, CA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakland-Hayward, CA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"San Francisco-Oakland-Hayward, CA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2017 data),2018,0.2071,20.71%,3,(highest to lowest),0,Percent
 Infrastructure,Population That Has Access To Advertised Broadband Speeds of 1GB or Higher,"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2018 data),2019,0.218,21.80%,5,(highest to lowest),0,Percent
 Infrastructure,Number of Direct Routes Out of Home Airport,"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,94.0,94.00,9,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016.0,98.0,98.00,9.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017.0,96.0,96.00,9.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Seattle-Tacoma-Bellevue, WA Metro Area",2018.0,2018.0,103.0,103.00,9.0,(highest to lowest),0,Numeric
-Infrastructure,Number of Direct Routes Out of Home Airport,"Seattle-Tacoma-Bellevue, WA Metro Area",2019.0,2019.0,119.0,119.00,9.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016,98.0,98.00,9.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017,96.0,96.00,9.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Seattle-Tacoma-Bellevue, WA Metro Area",2018.0,2018,103.0,103.00,9.0,(highest to lowest),0,Numeric
+Infrastructure,Number of Direct Routes Out of Home Airport,"Seattle-Tacoma-Bellevue, WA Metro Area",2019.0,2019,119.0,119.00,9.0,(highest to lowest),0,Numeric
 Infrastructure,Highway Miles Rated in Good Condition,"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Infrastructure,Highway Miles Rated in Good Condition,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
+Infrastructure,Highway Miles Rated in Good Condition,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Seattle-Tacoma-Bellevue, WA Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Percent
 Infrastructure,Highway Miles Rated in Good Condition,"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Percent
@@ -2105,20 +2039,14 @@ Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bel
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bellevue, WA Metro Area",2017 (2015 data),2017,0.525,52.50%,8,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2016 data),2018,0.517,51.70%,8,(highest to lowest),1,Percent
 Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2017 data),2019,0.503,50.30%,8,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bellevue, WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bellevue, WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bellevue, WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bellevue, WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bellevue, WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
-Infrastructure,Population With Commutes Less Than 30 Minutes,"Seattle-Tacoma-Bellevue, WA Metro Area",nan,nan,,,,(highest to lowest),1,Percent
 Environment,Per Capita Water Usage (Gal/Day),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015 (2010 data),2015,104.25820768055841,104.26,2,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016 (2010 data),2016,104.25820768055841,104.26,2,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017 (2010 data),2017,104.25820768055841,104.26,2,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2015 data),2018,92.63769157654312,92.64,2,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2015 data),2019,92.63769157654312,92.64,2,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2018 data),2018,0.223,22.30%,12,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2019 data),2019,0.235,23.50%,12,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Atlanta-Sandy Springs-Roswell, GA Metro Area",2015 (2014 data),2015,18.0,18.00,8,(lowest to highest),0,Numeric
@@ -2147,8 +2075,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Austin-Round Rock, TX Metro Area",
 Environment,Per Capita Water Usage (Gal/Day),"Austin-Round Rock, TX Metro Area",2018 (2015 data),2018,136.77766390159232,136.78,9,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Austin-Round Rock, TX Metro Area",2019 (2015 data),2019,136.77766390159232,136.78,9,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Austin-Round Rock, TX Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Austin-Round Rock, TX Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Austin-Round Rock, TX Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Austin-Round Rock, TX Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Austin-Round Rock, TX Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Austin-Round Rock, TX Metro Area",2018 (2018 data),2018,0.521,52.10%,9,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Austin-Round Rock, TX Metro Area",2019 (2019 data),2019,0.575,57.50%,9,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Austin-Round Rock, TX Metro Area",2015 (2014 data),2015,0.0,0.00,1,(lowest to highest),0,Numeric
@@ -2177,8 +2105,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Boston-Cambridge-Newton, MA-NH Met
 Environment,Per Capita Water Usage (Gal/Day),"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2015 data),2018,60.414260427791746,60.41,1,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2015 data),2019,60.414260427791746,60.41,1,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2018 data),2018,0.719,71.90%,6,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2019 data),2019,0.742,74.20%,6,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Boston-Cambridge-Newton, MA-NH Metro Area",2015 (2014 data),2015,5.0,5.00,3,(lowest to highest),0,Numeric
@@ -2207,8 +2135,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Charlotte-Concord-Gastonia, NC-SC 
 Environment,Per Capita Water Usage (Gal/Day),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2015 data),2018,105.38057529684099,105.38,3,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2015 data),2019,105.38057529684099,105.38,3,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2018 data),2018,0.273,27.30%,11,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2019 data),2019,0.287,28.70%,11,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Charlotte-Concord-Gastonia, NC-SC Metro Area",2015 (2014 data),2015,5.0,5.00,3,(lowest to highest),0,Numeric
@@ -2237,8 +2165,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Chicago-Naperville-Elgin, IL-IN-WI
 Environment,Per Capita Water Usage (Gal/Day),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2015 data),2018,122.12526972272266,122.13,6,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2015 data),2019,122.12526972272266,122.13,6,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2018 data),2018,0.829,82.90%,2,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2019 data),2019,0.85,85.00%,3,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015 (2014 data),2015,21.0,21.00,9,(lowest to highest),0,Numeric
@@ -2267,8 +2195,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Dallas-Fort Worth-Arlington, TX Me
 Environment,Per Capita Water Usage (Gal/Day),"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2015 data),2018,161.49788973725433,161.50,11,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2015 data),2019,161.49788973725433,161.50,11,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2018 data),2018,0.574,57.40%,8,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2019 data),2019,0.593,59.30%,8,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Dallas-Fort Worth-Arlington, TX Metro Area",2015 (2014 data),2015,28.0,28.00,11,(lowest to highest),0,Numeric
@@ -2297,8 +2225,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Denver-Aurora-Lakewood, CO Metro A
 Environment,Per Capita Water Usage (Gal/Day),"Denver-Aurora-Lakewood, CO Metro Area",2018 (2015 data),2018,174.82333273834843,174.82,12,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Denver-Aurora-Lakewood, CO Metro Area",2019 (2015 data),2019,174.82333273834843,174.82,12,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Denver-Aurora-Lakewood, CO Metro Area",2018 (2018 data),2018,0.825,82.50%,3,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Denver-Aurora-Lakewood, CO Metro Area",2019 (2019 data),2019,0.855,85.50%,2,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Denver-Aurora-Lakewood, CO Metro Area",2015 (2014 data),2015,34.0,34.00,12,(lowest to highest),0,Numeric
@@ -2327,8 +2255,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Minneapolis-St. Paul-Bloomington, 
 Environment,Per Capita Water Usage (Gal/Day),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2015 data),2018,108.31151744519552,108.31,4,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2015 data),2019,108.31151744519552,108.31,4,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2018 data),2018,0.834,83.40%,1,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2019 data),2019,0.872,87.20%,1,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015 (2014 data),2015,2.0,2.00,2,(lowest to highest),0,Numeric
@@ -2357,8 +2285,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Pittsburgh, PA Metro Area",2017 (2
 Environment,Per Capita Water Usage (Gal/Day),"Pittsburgh, PA Metro Area",2018 (2015 data),2018,144.7660193906934,144.77,10,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Pittsburgh, PA Metro Area",2019 (2015 data),2019,144.7660193906934,144.77,10,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Pittsburgh, PA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Pittsburgh, PA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Pittsburgh, PA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Pittsburgh, PA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Pittsburgh, PA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Pittsburgh, PA Metro Area",2018 (2018 data),2018,0.477,47.70%,10,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Pittsburgh, PA Metro Area",2019 (2019 data),2019,0.509,50.90%,10,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Pittsburgh, PA Metro Area",2015 (2014 data),2015,22.0,22.00,10,(lowest to highest),0,Numeric
@@ -2387,8 +2315,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Portland-Vancouver-Hillsboro, OR-W
 Environment,Per Capita Water Usage (Gal/Day),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2015 data),2018,108.38231112273131,108.38,5,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2015 data),2019,108.38231112273131,108.38,5,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2018 data),2018,0.745,74.50%,5,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2019 data),2019,0.772,77.20%,5,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015 (2014 data),2015,8.0,8.00,6,(lowest to highest),0,Numeric
@@ -2417,8 +2345,8 @@ Environment,Per Capita Water Usage (Gal/Day),"San Francisco-Oakland-Hayward, CA 
 Environment,Per Capita Water Usage (Gal/Day),"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2015 data),2018,136.39830871079448,136.40,8,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2015 data),2019,136.39830871079448,136.40,8,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2018 data),2018,0.811,81.10%,4,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2019 data),2019,0.831,83.10%,4,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","San Francisco-Oakland-Hayward, CA Metro Area",2015 (2014 data),2015,10.0,10.00,7,(lowest to highest),0,Numeric
@@ -2447,8 +2375,8 @@ Environment,Per Capita Water Usage (Gal/Day),"Seattle-Tacoma-Bellevue, WA Metro 
 Environment,Per Capita Water Usage (Gal/Day),"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2015 data),2018,131.12937375301942,131.13,7,(lowest to highest),0,Numeric
 Environment,Per Capita Water Usage (Gal/Day),"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2015 data),2019,131.12937375301942,131.13,7,(lowest to highest),0,Numeric
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2018 data),2018,0.652,65.20%,7,(highest to lowest),0,Percent
 Environment,Population Within 10 Minute Walk To A Park (Urbanized Area),"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2019 data),2019,0.664,66.40%,7,(highest to lowest),0,Percent
 Environment,"Number of Days That Air Quality Was ""Unhealthy For Sensitive Groups"" (Days/Year)","Seattle-Tacoma-Bellevue, WA Metro Area",2015 (2014 data),2015,7.0,7.00,5,(lowest to highest),0,Numeric
@@ -2482,18 +2410,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Atlanta-Sandy 
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2016 Data),2018,403.2,403.20,8,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2017 Data),2019,367.6,367.60,7,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019.0,2019.0,0.2763899732170633,27.64%,12.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019.0,2019,0.2763899732170633,27.64%,12.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015 (2013 Data),2015,0.37865012813319787,37.87%,6,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016 (2014 Data),2016,0.38051237966713813,38.05%,7,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017 (2015 Data),2017,0.3575821921315192,35.76%,5,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2016 Data),2018,0.3475417974738994,34.75%,5,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2017 Data),2019,0.34516798519551933,34.52%,5,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2016 data),2018,0.06374085684430512,6.37%,9,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2017 data),2019,0.0422,4.22%,6,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2502,7 +2430,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Atlanta-Sandy Sprin
 Livability,Annual Change in Median Apartment Rent (Overall),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2016 data),2018,0.052216748768472904,5.22%,9,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2017 data),2019,0.04400749063670412,4.40%,6,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017 (2016 data),2017,184500.0,"$184,500.00",1,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2017 data),2018,198500.0,"$198,500.00",1,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2018 data),2019,219900.0,"$219,900.00",1,(lowest to highest),0,Dollar
@@ -2517,18 +2445,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Austin-Round R
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Austin-Round Rock, TX Metro Area",2018 (2016 Data),2018,316.9,316.90,4,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Austin-Round Rock, TX Metro Area",2019 (2017 Data),2019,306.3,306.30,5,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Austin-Round Rock, TX Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Austin-Round Rock, TX Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Austin-Round Rock, TX Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Austin-Round Rock, TX Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Austin-Round Rock, TX Metro Area",2019.0,2019.0,0.331460540074013,33.15%,7.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Austin-Round Rock, TX Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Austin-Round Rock, TX Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Austin-Round Rock, TX Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Austin-Round Rock, TX Metro Area",2019.0,2019,0.331460540074013,33.15%,7.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Austin-Round Rock, TX Metro Area",2015 (2013 Data),2015,0.385,38.50%,7,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Austin-Round Rock, TX Metro Area",2016 (2014 Data),2016,0.377,37.70%,6,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Austin-Round Rock, TX Metro Area",2017 (2015 Data),2017,0.369,36.90%,8,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Austin-Round Rock, TX Metro Area",2018 (2016 Data),2018,0.3564432767048446,35.64%,6,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Austin-Round Rock, TX Metro Area",2019 (2017 Data),2019,0.34875636230136176,34.88%,6,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Austin-Round Rock, TX Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Austin-Round Rock, TX Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Austin-Round Rock, TX Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Austin-Round Rock, TX Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Austin-Round Rock, TX Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Austin-Round Rock, TX Metro Area",2018 (2016 data),2018,0.04071246819338423,4.07%,5,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Austin-Round Rock, TX Metro Area",2019 (2017 data),2019,0.0383,3.83%,5,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Austin-Round Rock, TX Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2537,7 +2465,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Austin-Round Rock, 
 Livability,Annual Change in Median Apartment Rent (Overall),"Austin-Round Rock, TX Metro Area",2018 (2016 data),2018,0.046861184792219276,4.69%,7,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Austin-Round Rock, TX Metro Area",2019 (2017 data),2019,0.032939189189189186,3.29%,3,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Austin-Round Rock, TX Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Austin-Round Rock, TX Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Austin-Round Rock, TX Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Austin-Round Rock, TX Metro Area",2017 (2016 data),2017,284000.0,"$284,000.00",6,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Austin-Round Rock, TX Metro Area",2018 (2017 data),2018,295800.0,"$295,800.00",6,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Austin-Round Rock, TX Metro Area",2019 (2018 data),2019,315900.0,"$315,900.00",6,(lowest to highest),0,Dollar
@@ -2552,18 +2480,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Boston-Cambrid
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2016 Data),2018,,,,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2017 Data),2019,305.3,305.30,4,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Boston-Cambridge-Newton, MA-NH Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Boston-Cambridge-Newton, MA-NH Metro Area",2019.0,2019.0,0.3990054282626775,39.90%,3.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Boston-Cambridge-Newton, MA-NH Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Boston-Cambridge-Newton, MA-NH Metro Area",2019.0,2019,0.3990054282626775,39.90%,3.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Boston-Cambridge-Newton, MA-NH Metro Area",2015 (2013 Data),2015,0.398,39.80%,8,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Boston-Cambridge-Newton, MA-NH Metro Area",2016 (2014 Data),2016,0.395,39.50%,9,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Boston-Cambridge-Newton, MA-NH Metro Area",2017 (2015 Data),2017,0.3983949604565349,39.84%,11,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2016 Data),2018,0.375,37.50%,10,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2017 Data),2019,0.3729747980063047,37.30%,10,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2016 data),2018,0.05029154518950437,5.03%,8,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2017 data),2019,0.018,1.80%,1,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2572,7 +2500,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Boston-Cambridge-Ne
 Livability,Annual Change in Median Apartment Rent (Overall),"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2016 data),2018,0.025835866261398176,2.58%,3,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2017 data),2019,0.03481481481481481,3.48%,4,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Boston-Cambridge-Newton, MA-NH Metro Area",2017 (2016 data),2017,421100.0,"$421,100.00",10,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2017 data),2018,452900.0,"$452,900.00",9,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2018 data),2019,477400.0,"$477,400.00",9,(lowest to highest),0,Dollar
@@ -2587,18 +2515,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Charlotte-Conc
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2016 Data),2018,,,,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2017 Data),2019,416.2,416.20,10,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019.0,2019.0,0.3781821951808273,37.82%,6.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019.0,2019,0.3781821951808273,37.82%,6.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015 (2013 Data),2015,0.345,34.50%,3,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016 (2014 Data),2016,0.34,34.00%,3,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017 (2015 Data),2017,0.337,33.70%,3,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2016 Data),2018,0.305,30.50%,3,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2017 Data),2019,0.3019829909666508,30.20%,3,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2016 data),2018,0.046674445740956826,4.67%,7,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2017 data),2019,0.0223,2.23%,2,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2607,7 +2535,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Charlotte-Concord-G
 Livability,Annual Change in Median Apartment Rent (Overall),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2016 data),2018,0.03715846994535519,3.72%,5,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2017 data),2019,0.029504741833508957,2.95%,2,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017 (2016 data),2017,208400.0,"$208,400.00",2,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2017 data),2018,226900.0,"$226,900.00",2,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2018 data),2019,241500.0,"$241,500.00",2,(lowest to highest),0,Dollar
@@ -2622,18 +2550,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Chicago-Naperv
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2016 Data),2018,443.0,443.00,9,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2017 Data),2019,,,,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019.0,2019.0,0.276631634546937,27.66%,11.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019.0,2019,0.276631634546937,27.66%,11.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015 (2013 Data),2015,0.411,41.10%,11,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016 (2014 Data),2016,0.408,40.80%,10,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017 (2015 Data),2017,0.391,39.10%,10,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2016 Data),2018,0.377,37.70%,11,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2017 Data),2019,0.3708835973464545,37.09%,9,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2016 data),2018,0.02629016553067186,2.63%,4,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2017 data),2019,0.0313,3.13%,4,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2642,7 +2570,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Chicago-Naperville-
 Livability,Annual Change in Median Apartment Rent (Overall),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2016 data),2018,0.037549407114624504,3.75%,6,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2017 data),2019,0.02666666666666667,2.67%,1,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017 (2016 data),2017,234900.0,"$234,900.00",4,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2017 data),2018,248500.0,"$248,500.00",4,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2018 data),2019,259400.0,"$259,400.00",3,(lowest to highest),0,Dollar
@@ -2657,18 +2585,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Dallas-Fort Wo
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2016 Data),2018,359.7,359.70,6,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2017 Data),2019,369.3,369.30,8,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Dallas-Fort Worth-Arlington, TX Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Dallas-Fort Worth-Arlington, TX Metro Area",2019.0,2019.0,0.2812408793275154,28.12%,10.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Dallas-Fort Worth-Arlington, TX Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Dallas-Fort Worth-Arlington, TX Metro Area",2019.0,2019,0.2812408793275154,28.12%,10.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Dallas-Fort Worth-Arlington, TX Metro Area",2015 (2013 Data),2015,0.356,35.60%,4,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Dallas-Fort Worth-Arlington, TX Metro Area",2016 (2014 Data),2016,0.368,36.80%,5,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Dallas-Fort Worth-Arlington, TX Metro Area",2017 (2015 Data),2017,0.359,35.90%,6,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2016 Data),2018,0.344,34.40%,4,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2017 Data),2019,0.3423327254594255,34.23%,4,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2016 data),2018,0.04334677419354839,4.33%,6,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2017 data),2019,0.0609,6.09%,11,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2677,7 +2605,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Dallas-Fort Worth-A
 Livability,Annual Change in Median Apartment Rent (Overall),"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2016 data),2018,0.03024193548387097,3.02%,4,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2017 data),2019,0.06164383561643835,6.16%,10,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Dallas-Fort Worth-Arlington, TX Metro Area",2017 (2016 data),2017,227100.0,"$227,100.00",3,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2017 data),2018,247400.0,"$247,400.00",3,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2018 data),2019,260000.0,"$260,000.00",4,(lowest to highest),0,Dollar
@@ -2692,18 +2620,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Denver-Aurora-
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Denver-Aurora-Lakewood, CO Metro Area",2018 (2016 Data),2018,389.0,389.00,7,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Denver-Aurora-Lakewood, CO Metro Area",2019 (2017 Data),2019,413.9,413.90,9,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Denver-Aurora-Lakewood, CO Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Denver-Aurora-Lakewood, CO Metro Area",2019.0,2019.0,0.32607565942271044,32.61%,8.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Denver-Aurora-Lakewood, CO Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Denver-Aurora-Lakewood, CO Metro Area",2019.0,2019,0.32607565942271044,32.61%,8.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Denver-Aurora-Lakewood, CO Metro Area",2015 (2013 Data),2015,0.377,37.70%,5,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Denver-Aurora-Lakewood, CO Metro Area",2016 (2014 Data),2016,0.358,35.80%,4,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Denver-Aurora-Lakewood, CO Metro Area",2017 (2015 Data),2017,0.351,35.10%,4,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Denver-Aurora-Lakewood, CO Metro Area",2018 (2016 Data),2018,0.361,36.10%,7,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Denver-Aurora-Lakewood, CO Metro Area",2019 (2017 Data),2019,0.3613469625941821,36.13%,7,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Denver-Aurora-Lakewood, CO Metro Area",2018 (2016 data),2018,0.09181141439205956,9.18%,12,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Denver-Aurora-Lakewood, CO Metro Area",2019 (2017 data),2019,0.0545,5.45%,9,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2712,7 +2640,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Denver-Aurora-Lakew
 Livability,Annual Change in Median Apartment Rent (Overall),"Denver-Aurora-Lakewood, CO Metro Area",2018 (2016 data),2018,0.08614864864864864,8.61%,12,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Denver-Aurora-Lakewood, CO Metro Area",2019 (2017 data),2019,0.05132192846034215,5.13%,7,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Denver-Aurora-Lakewood, CO Metro Area",2017 (2016 data),2017,384300.0,"$384,300.00",8,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Denver-Aurora-Lakewood, CO Metro Area",2018 (2017 data),2018,414700.0,"$414,700.00",8,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Denver-Aurora-Lakewood, CO Metro Area",2019 (2018 data),2019,449900.0,"$449,900.00",8,(lowest to highest),0,Dollar
@@ -2727,18 +2655,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Minneapolis-St
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2016 Data),2018,287.7,287.70,2,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2017 Data),2019,283.0,283.00,2,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019.0,2019.0,0.4912469533570017,49.12%,1.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019.0,2019,0.4912469533570017,49.12%,1.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015 (2013 Data),2015,0.327,32.70%,2,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016 (2014 Data),2016,0.327,32.70%,2,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017 (2015 Data),2017,0.315,31.50%,2,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2016 Data),2018,0.303,30.30%,2,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2017 Data),2019,0.2972798424027803,29.73%,2,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2016 data),2018,0.0239,2.39%,3,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2017 data),2019,0.0475,4.75%,7,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2747,7 +2675,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Minneapolis-St. Pau
 Livability,Annual Change in Median Apartment Rent (Overall),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2016 data),2018,0.021450459652706845,2.15%,2,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2017 data),2019,0.057,5.70%,9,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017 (2016 data),2017,237000.0,"$237,000.00",5,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2017 data),2018,252100.0,"$252,100.00",5,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2018 data),2019,273400.0,"$273,400.00",5,(lowest to highest),0,Dollar
@@ -2762,18 +2690,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Pittsburgh, PA
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Pittsburgh, PA Metro Area",2018 (2016 Data),2018,289.0,289.00,3,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Pittsburgh, PA Metro Area",2019 (2017 Data),2019,278.2,278.20,1,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Pittsburgh, PA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Pittsburgh, PA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Pittsburgh, PA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Pittsburgh, PA Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Pittsburgh, PA Metro Area",2019.0,2019.0,0.3903825720656089,39.04%,5.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Pittsburgh, PA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Pittsburgh, PA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Pittsburgh, PA Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Pittsburgh, PA Metro Area",2019.0,2019,0.3903825720656089,39.04%,5.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Pittsburgh, PA Metro Area",2015 (2013 Data),2015,0.308,30.80%,1,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Pittsburgh, PA Metro Area",2016 (2014 Data),2016,0.308,30.80%,1,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Pittsburgh, PA Metro Area",2017 (2015 Data),2017,0.304,30.40%,1,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Pittsburgh, PA Metro Area",2018 (2016 Data),2018,0.294,29.40%,1,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Pittsburgh, PA Metro Area",2019 (2017 Data),2019,0.290857378517897,29.09%,1,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Pittsburgh, PA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Pittsburgh, PA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Pittsburgh, PA Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Pittsburgh, PA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Pittsburgh, PA Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Pittsburgh, PA Metro Area",2018 (2016 data),2018,0.0012642225031605564,0.13%,2,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Pittsburgh, PA Metro Area",2019 (2017 data),2019,0.0505,5.05%,8,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Pittsburgh, PA Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2782,7 +2710,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Pittsburgh, PA Metr
 Livability,Annual Change in Median Apartment Rent (Overall),"Pittsburgh, PA Metro Area",2018 (2016 data),2018,0.013227513227513227,1.32%,1,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Pittsburgh, PA Metro Area",2019 (2017 data),2019,0.03655352480417755,3.66%,5,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Pittsburgh, PA Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Pittsburgh, PA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Pittsburgh, PA Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Pittsburgh, PA Metro Area",2017 (2016 data),2017,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Pittsburgh, PA Metro Area",2018 (2017 data),2018,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Pittsburgh, PA Metro Area",2019 (2018 data),2019,,,,(lowest to highest),0,Dollar
@@ -2797,18 +2725,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Portland-Vanco
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2016 Data),2018,276.1,276.10,1,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2017 Data),2019,283.0,283.00,2,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019.0,2019.0,0.4899571464067994,49.00%,2.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019.0,2019,0.4899571464067994,49.00%,2.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015 (2013 Data),2015,0.404,40.40%,9,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016 (2014 Data),2016,0.408,40.80%,10,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017 (2015 Data),2017,0.386,38.60%,9,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2016 Data),2018,0.372,37.20%,9,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2017 Data),2019,0.37653694903295426,37.65%,11,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2016 data),2018,0.0009596928982725527,0.10%,1,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2017 data),2019,0.0284,2.84%,3,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2817,7 +2745,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Portland-Vancouver-
 Livability,Annual Change in Median Apartment Rent (Overall),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2016 data),2018,0.08123249299719888,8.12%,10,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2017 data),2019,0.0690846286701209,6.91%,11,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017 (2016 data),2017,351200.0,"$351,200.00",7,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2017 data),2018,381800.0,"$381,800.00",7,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2018 data),2019,395700.0,"$395,700.00",7,(lowest to highest),0,Dollar
@@ -2832,18 +2760,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"San Francisco-
 Livability,Number of Violent Crimes Committed Per 100k Residents,"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2016 Data),2018,477.7,477.70,10,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2017 Data),2019,476.6,476.60,11,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"San Francisco-Oakland-Hayward, CA Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"San Francisco-Oakland-Hayward, CA Metro Area",2019.0,2019.0,0.2838753678586972,28.39%,9.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"San Francisco-Oakland-Hayward, CA Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"San Francisco-Oakland-Hayward, CA Metro Area",2019.0,2019,0.2838753678586972,28.39%,9.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"San Francisco-Oakland-Hayward, CA Metro Area",2015 (2013 Data),2015,0.443,44.30%,12,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"San Francisco-Oakland-Hayward, CA Metro Area",2016 (2014 Data),2016,0.428,42.80%,12,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"San Francisco-Oakland-Hayward, CA Metro Area",2017 (2015 Data),2017,0.419,41.90%,12,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2016 Data),2018,0.409,40.90%,12,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2017 Data),2019,0.4006932994022706,40.07%,12,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2016 data),2018,0.08804283164782867,8.80%,11,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2017 data),2019,0.0601,6.01%,10,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2852,7 +2780,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"San Francisco-Oakla
 Livability,Annual Change in Median Apartment Rent (Overall),"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2016 data),2018,0.08256315465187923,8.26%,11,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2017 data),2019,0.05463858850313034,5.46%,8,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"San Francisco-Oakland-Hayward, CA Metro Area",2017 (2016 data),2017,828000.0,"$828,000.00",11,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2017 data),2018,900000.0,"$900,000.00",11,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2018 data),2019,987500.0,"$987,500.00",11,(lowest to highest),0,Dollar
@@ -2867,18 +2795,18 @@ Livability,Number of Violent Crimes Committed Per 100k Residents,"Seattle-Tacoma
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2016 Data),2018,353.2,353.20,5,(lowest to highest),0,Numeric
 Livability,Number of Violent Crimes Committed Per 100k Residents,"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2017 Data),2019,353.7,353.70,6,(lowest to highest),0,Numeric
 Livability,Population 16+ Who Volunteered Past Year,"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Seattle-Tacoma-Bellevue, WA Metro Area",2018.0,2018.0,,,,(highest to lowest),0,Percent
-Livability,Population 16+ Who Volunteered Past Year,"Seattle-Tacoma-Bellevue, WA Metro Area",2019.0,2019.0,0.39143587565466376,39.14%,4.0,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Seattle-Tacoma-Bellevue, WA Metro Area",2018.0,2018,,,,(highest to lowest),0,Percent
+Livability,Population 16+ Who Volunteered Past Year,"Seattle-Tacoma-Bellevue, WA Metro Area",2019.0,2019,0.39143587565466376,39.14%,4.0,(highest to lowest),0,Percent
 Livability,Percent of Cost-Burdened Households,"Seattle-Tacoma-Bellevue, WA Metro Area",2015 (2013 Data),2015,0.409,40.90%,10,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Seattle-Tacoma-Bellevue, WA Metro Area",2016 (2014 Data),2016,0.387,38.70%,8,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Seattle-Tacoma-Bellevue, WA Metro Area",2017 (2015 Data),2017,0.367,36.70%,7,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2016 Data),2018,0.365,36.50%,8,(lowest to highest),1,Percent
 Livability,Percent of Cost-Burdened Households,"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2017 Data),2019,0.369,36.90%,8,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Percent
-Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017.0,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016,,,,(lowest to highest),0,Percent
+Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017,,,,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2016 data),2018,0.07311129163281885,7.31%,10,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (2-BR Apartment),"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2017 data),2019,0.1066,10.66%,12,(lowest to highest),0,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,,,,(lowest to highest),1,Percent
@@ -2887,7 +2815,7 @@ Livability,Annual Change in Median Apartment Rent (Overall),"Seattle-Tacoma-Bell
 Livability,Annual Change in Median Apartment Rent (Overall),"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2016 data),2018,0.04908946951702296,4.91%,8,(lowest to highest),1,Percent
 Livability,Annual Change in Median Apartment Rent (Overall),"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2017 data),2019,0.0890566037735849,8.91%,12,(lowest to highest),1,Percent
 Livability,Median Home Purchase Price,"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,,,,(lowest to highest),0,Dollar
-Livability,Median Home Purchase Price,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016.0,,,,(lowest to highest),0,Dollar
+Livability,Median Home Purchase Price,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016,,,,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Seattle-Tacoma-Bellevue, WA Metro Area",2017 (2016 data),2017,414500.0,"$414,500.00",9,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2017 data),2018,465800.0,"$465,800.00",10,(lowest to highest),0,Dollar
 Livability,Median Home Purchase Price,"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2018 data),2019,501400.0,"$501,400.00",10,(lowest to highest),0,Dollar
@@ -2924,15 +2852,15 @@ Vital Stats,Unemployment Rate Annualized,"Atlanta-Sandy Springs-Roswell, GA Metr
 Vital Stats,Unemployment Rate Annualized,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018 (2017 data),2018,0.045,4.50%,10,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019 (2018 data),2019,0.038,3.80%,8,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,0.06,6.00%,6,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016.0,0.06,6.00%,6.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017.0,0.06,6.00%,6.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018.0,2018.0,0.06,6.00%,6.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019.0,2019.0,0.0575,5.75%,6.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016,0.06,6.00%,6.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017,0.06,6.00%,6.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018.0,2018,0.06,6.00%,6.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019.0,2019,0.0575,5.75%,6.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015,2015,0.06,6.00%,9,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016.0,0.06,6.00%,9.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017.0,0.06,6.00%,9.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018.0,2018.0,0.06,6.00%,9.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019.0,2019.0,0.0575,5.75%,9.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016.0,2016,0.06,6.00%,9.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017.0,2017,0.06,6.00%,9.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2018.0,2018,0.06,6.00%,9.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2019.0,2019,0.0575,5.75%,9.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2015 (2013 data),2015,0.094,9.40%,9,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2016 (2014 data),2016,0.09,9.00%,8,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Atlanta-Sandy Springs-Roswell, GA Metro Area",2017 (2015 data),2017,0.07888568847756376,7.89%,8,(lowest to highest),0,Percent
@@ -2991,15 +2919,15 @@ Vital Stats,Unemployment Rate Annualized,"Austin-Round Rock, TX Metro Area",2017
 Vital Stats,Unemployment Rate Annualized,"Austin-Round Rock, TX Metro Area",2018 (2017 data),2018,0.031,3.10%,2,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Austin-Round Rock, TX Metro Area",2019 (2018 data),2019,0.029,2.90%,3,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Austin-Round Rock, TX Metro Area",2015,2015,0.0095,0.95%,2,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Austin-Round Rock, TX Metro Area",2016.0,2016.0,0.0095,0.95%,2.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Austin-Round Rock, TX Metro Area",2017.0,2017.0,0.0075,0.75%,2.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Austin-Round Rock, TX Metro Area",2018.0,2018.0,0.0075,0.75%,2.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Austin-Round Rock, TX Metro Area",2019.0,2019.0,0.0075,0.75%,2.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Austin-Round Rock, TX Metro Area",2016.0,2016,0.0095,0.95%,2.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Austin-Round Rock, TX Metro Area",2017.0,2017,0.0075,0.75%,2.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Austin-Round Rock, TX Metro Area",2018.0,2018,0.0075,0.75%,2.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Austin-Round Rock, TX Metro Area",2019.0,2019,0.0075,0.75%,2.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Austin-Round Rock, TX Metro Area",2015,2015,0.0,0.00%,1,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Austin-Round Rock, TX Metro Area",2016.0,2016.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Austin-Round Rock, TX Metro Area",2017.0,2017.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Austin-Round Rock, TX Metro Area",2018.0,2018.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Austin-Round Rock, TX Metro Area",2019.0,2019.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Austin-Round Rock, TX Metro Area",2016.0,2016,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Austin-Round Rock, TX Metro Area",2017.0,2017,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Austin-Round Rock, TX Metro Area",2018.0,2018,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Austin-Round Rock, TX Metro Area",2019.0,2019,0.0,0.00%,1.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Austin-Round Rock, TX Metro Area",2015 (2013 data),2015,0.085,8.50%,7,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Austin-Round Rock, TX Metro Area",2016 (2014 data),2016,0.09,9.00%,8,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Austin-Round Rock, TX Metro Area",2017 (2015 data),2017,0.07356966638740141,7.36%,7,(lowest to highest),0,Percent
@@ -3058,15 +2986,15 @@ Vital Stats,Unemployment Rate Annualized,"Boston-Cambridge-Newton, MA-NH Metro A
 Vital Stats,Unemployment Rate Annualized,"Boston-Cambridge-Newton, MA-NH Metro Area",2018 (2017 data),2018,0.034,3.40%,5,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Boston-Cambridge-Newton, MA-NH Metro Area",2019 (2018 data),2019,0.03,3.00%,4,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,0.08,8.00%,9,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016.0,0.08,8.00%,9.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017.0,0.08,8.00%,9.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2018.0,2018.0,0.08,8.00%,8.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2019.0,2019.0,0.08,8.00%,8.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016,0.08,8.00%,9.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017,0.08,8.00%,9.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2018.0,2018,0.08,8.00%,8.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2019.0,2019,0.08,8.00%,8.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2015,2015,0.0515,5.15%,7,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016.0,0.0515,5.15%,7.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017.0,0.051,5.10%,7.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2018.0,2018.0,0.051,5.10%,7.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2019.0,2019.0,0.0505,5.05%,7.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2016.0,2016,0.0515,5.15%,7.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2017.0,2017,0.051,5.10%,7.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2018.0,2018,0.051,5.10%,7.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Boston-Cambridge-Newton, MA-NH Metro Area",2019.0,2019,0.0505,5.05%,7.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Boston-Cambridge-Newton, MA-NH Metro Area",2015 (2013 data),2015,0.071,7.10%,2,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Boston-Cambridge-Newton, MA-NH Metro Area",2016 (2014 data),2016,0.069,6.90%,4,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Boston-Cambridge-Newton, MA-NH Metro Area",2017 (2015 data),2017,0.06799597157225465,6.80%,3,(lowest to highest),0,Percent
@@ -3125,15 +3053,15 @@ Vital Stats,Unemployment Rate Annualized,"Charlotte-Concord-Gastonia, NC-SC Metr
 Vital Stats,Unemployment Rate Annualized,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018 (2017 data),2018,0.043,4.30%,9,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019 (2018 data),2019,0.036,3.60%,7,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,0.05,5.00%,5,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016.0,0.04,4.00%,4.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017.0,0.03,3.00%,4.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018.0,2018.0,0.03,3.00%,4.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019.0,2019.0,0.025,2.50%,4.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016,0.04,4.00%,4.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017,0.03,3.00%,4.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018.0,2018,0.03,3.00%,4.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019.0,2019,0.025,2.50%,4.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015,2015,0.0575,5.75%,8,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016.0,0.0575,5.75%,8.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017.0,0.05499,5.50%,8.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018.0,2018.0,0.055,5.50%,8.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019.0,2019.0,0.0525,5.25%,8.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016.0,2016,0.0575,5.75%,8.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017.0,2017,0.05499,5.50%,8.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2018.0,2018,0.055,5.50%,8.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2019.0,2019,0.0525,5.25%,8.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2015 (2013 data),2015,0.096,9.60%,10,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2016 (2014 data),2016,0.098,9.80%,11,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2017 (2015 data),2017,0.096,9.60%,10,(lowest to highest),0,Percent
@@ -3192,15 +3120,15 @@ Vital Stats,Unemployment Rate Annualized,"Chicago-Naperville-Elgin, IL-IN-WI Met
 Vital Stats,Unemployment Rate Annualized,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018 (2017 data),2018,0.048,4.80%,11,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019 (2018 data),2019,0.04,4.00%,11,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,0.0775,7.75%,8,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016.0,0.0775,7.75%,8.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017.0,0.0775,7.75%,8.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018.0,2018.0,0.095,9.50%,10.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019.0,2019.0,0.095,9.50%,10.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016,0.0775,7.75%,8.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017,0.0775,7.75%,8.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018.0,2018,0.095,9.50%,10.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019.0,2019,0.095,9.50%,10.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015,2015,0.0375,3.75%,5,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016.0,0.0375,3.75%,5.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017.0,0.0375,3.75%,5.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018.0,2018.0,0.0495,4.95%,6.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019.0,2019.0,0.0495,4.95%,6.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016.0,2016,0.0375,3.75%,5.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017.0,2017,0.0375,3.75%,5.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2018.0,2018,0.0495,4.95%,6.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2019.0,2019,0.0495,4.95%,6.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2015 (2013 data),2015,0.073,7.30%,4,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2016 (2014 data),2016,0.071,7.10%,5,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",2017 (2015 data),2017,0.06993388462767658,6.99%,6,(lowest to highest),0,Percent
@@ -3259,15 +3187,15 @@ Vital Stats,Unemployment Rate Annualized,"Dallas-Fort Worth-Arlington, TX Metro 
 Vital Stats,Unemployment Rate Annualized,"Dallas-Fort Worth-Arlington, TX Metro Area",2018 (2017 data),2018,0.037,3.70%,6,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Dallas-Fort Worth-Arlington, TX Metro Area",2019 (2018 data),2019,0.035,3.50%,6,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,0.0095,0.95%,2,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016.0,0.0095,0.95%,2.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017.0,0.0075,0.75%,2.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2018.0,2018.0,0.0075,0.75%,2.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2019.0,2019.0,0.0075,0.75%,2.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016,0.0095,0.95%,2.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017,0.0075,0.75%,2.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2018.0,2018,0.0075,0.75%,2.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2019.0,2019,0.0075,0.75%,2.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2015,2015,0.0,0.00%,1,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2018.0,2018.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2019.0,2019.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2016.0,2016,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2017.0,2017,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2018.0,2018,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Dallas-Fort Worth-Arlington, TX Metro Area",2019.0,2019,0.0,0.00%,1.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Dallas-Fort Worth-Arlington, TX Metro Area",2015 (2013 data),2015,0.077,7.70%,6,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Dallas-Fort Worth-Arlington, TX Metro Area",2016 (2014 data),2016,0.077,7.70%,6,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Dallas-Fort Worth-Arlington, TX Metro Area",2017 (2015 data),2017,0.06846209905779573,6.85%,5,(lowest to highest),0,Percent
@@ -3326,15 +3254,15 @@ Vital Stats,Unemployment Rate Annualized,"Denver-Aurora-Lakewood, CO Metro Area"
 Vital Stats,Unemployment Rate Annualized,"Denver-Aurora-Lakewood, CO Metro Area",2018 (2017 data),2018,0.026,2.60%,1,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Denver-Aurora-Lakewood, CO Metro Area",2019 (2018 data),2019,0.032,3.20%,5,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,0.0463,4.63%,4,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016.0,0.0463,4.63%,5.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017.0,0.0463,4.63%,5.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2018.0,2018.0,0.0463,4.63%,5.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2019.0,2019.0,0.0463,4.63%,5.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016,0.0463,4.63%,5.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017,0.0463,4.63%,5.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2018.0,2018,0.0463,4.63%,5.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2019.0,2019,0.0463,4.63%,5.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2015,2015,0.0463,4.63%,6,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016.0,0.0463,4.63%,6.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017.0,0.0463,4.63%,6.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2018.0,2018.0,0.0463,4.63%,5.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2019.0,2019.0,0.0463,4.63%,5.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2016.0,2016,0.0463,4.63%,6.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2017.0,2017,0.0463,4.63%,6.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2018.0,2018,0.0463,4.63%,5.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Denver-Aurora-Lakewood, CO Metro Area",2019.0,2019,0.0463,4.63%,5.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Denver-Aurora-Lakewood, CO Metro Area",2015 (2013 data),2015,0.074,7.40%,5,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Denver-Aurora-Lakewood, CO Metro Area",2016 (2014 data),2016,0.067,6.70%,3,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Denver-Aurora-Lakewood, CO Metro Area",2017 (2015 data),2017,0.06205113425096177,6.21%,2,(lowest to highest),0,Percent
@@ -3393,15 +3321,15 @@ Vital Stats,Unemployment Rate Annualized,"Minneapolis-St. Paul-Bloomington, MN-W
 Vital Stats,Unemployment Rate Annualized,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018 (2017 data),2018,0.031,3.10%,2,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019 (2018 data),2019,0.027,2.70%,1,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,0.098,9.80%,11,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016.0,0.098,9.80%,11.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017.0,0.098,9.80%,11.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018.0,2018.0,0.098,9.80%,11.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019.0,2019.0,0.098,9.80%,11.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016,0.098,9.80%,11.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017,0.098,9.80%,11.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018.0,2018,0.098,9.80%,11.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019.0,2019,0.098,9.80%,11.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015,2015,0.0985,9.85%,10,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016.0,0.0985,9.85%,10.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017.0,0.0985,9.85%,10.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018.0,2018.0,0.0985,9.85%,10.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019.0,2019.0,0.0985,9.85%,10.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016.0,2016,0.0985,9.85%,10.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017.0,2017,0.0985,9.85%,10.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2018.0,2018,0.0985,9.85%,10.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2019.0,2019,0.0985,9.85%,10.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2015 (2013 data),2015,0.064,6.40%,1,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2016 (2014 data),2016,0.064,6.40%,1,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",2017 (2015 data),2017,0.05656435935730976,5.66%,1,(lowest to highest),0,Percent
@@ -3460,15 +3388,15 @@ Vital Stats,Unemployment Rate Annualized,"Pittsburgh, PA Metro Area",2017 (2016 
 Vital Stats,Unemployment Rate Annualized,"Pittsburgh, PA Metro Area",2018 (2017 data),2018,0.05,5.00%,12,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Pittsburgh, PA Metro Area",2019 (2018 data),2019,0.043,4.30%,12,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Pittsburgh, PA Metro Area",2015,2015,0.0999,9.99%,12,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Pittsburgh, PA Metro Area",2016.0,2016.0,0.0999,9.99%,12.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Pittsburgh, PA Metro Area",2017.0,2017.0,0.0999,9.99%,12.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Pittsburgh, PA Metro Area",2018.0,2018.0,0.0999,9.99%,12.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Pittsburgh, PA Metro Area",2019.0,2019.0,0.0999,9.99%,12.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Pittsburgh, PA Metro Area",2016.0,2016,0.0999,9.99%,12.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Pittsburgh, PA Metro Area",2017.0,2017,0.0999,9.99%,12.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Pittsburgh, PA Metro Area",2018.0,2018,0.0999,9.99%,12.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Pittsburgh, PA Metro Area",2019.0,2019,0.0999,9.99%,12.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Pittsburgh, PA Metro Area",2015,2015,0.0307,3.07%,4,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Pittsburgh, PA Metro Area",2016.0,2016.0,0.0307,3.07%,4.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Pittsburgh, PA Metro Area",2017.0,2017.0,0.0307,3.07%,4.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Pittsburgh, PA Metro Area",2018.0,2018.0,0.0307,3.07%,4.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Pittsburgh, PA Metro Area",2019.0,2019.0,0.0307,3.07%,4.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Pittsburgh, PA Metro Area",2016.0,2016,0.0307,3.07%,4.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Pittsburgh, PA Metro Area",2017.0,2017,0.0307,3.07%,4.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Pittsburgh, PA Metro Area",2018.0,2018,0.0307,3.07%,4.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Pittsburgh, PA Metro Area",2019.0,2019,0.0307,3.07%,4.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Pittsburgh, PA Metro Area",2015 (2013 data),2015,0.103,10.30%,11,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Pittsburgh, PA Metro Area",2016 (2014 data),2016,0.095,9.50%,10,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Pittsburgh, PA Metro Area",2017 (2015 data),2017,0.0976168698981347,9.76%,12,(lowest to highest),0,Percent
@@ -3527,15 +3455,15 @@ Vital Stats,Unemployment Rate Annualized,"Portland-Vancouver-Hillsboro, OR-WA Me
 Vital Stats,Unemployment Rate Annualized,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018 (2017 data),2018,0.039,3.90%,7,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019 (2018 data),2019,0.039,3.90%,9,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,0.076,7.60%,7,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016.0,0.076,7.60%,7.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017.0,0.076,7.60%,7.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018.0,2018.0,0.076,7.60%,7.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019.0,2019.0,0.076,7.60%,7.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016,0.076,7.60%,7.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017,0.076,7.60%,7.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018.0,2018,0.076,7.60%,7.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019.0,2019,0.076,7.60%,7.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015,2015,0.099,9.90%,11,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016.0,0.099,9.90%,11.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017.0,0.099,9.90%,11.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018.0,2018.0,0.099,9.90%,11.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019.0,2019.0,0.099,9.90%,11.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016.0,2016,0.099,9.90%,11.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017.0,2017,0.099,9.90%,11.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2018.0,2018,0.099,9.90%,11.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2019.0,2019,0.099,9.90%,11.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2015 (2013 data),2015,0.107,10.70%,12,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2016 (2014 data),2016,0.107,10.70%,12,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2017 (2015 data),2017,0.09613058215308766,9.61%,11,(lowest to highest),0,Percent
@@ -3594,15 +3522,15 @@ Vital Stats,Unemployment Rate Annualized,"San Francisco-Oakland-Hayward, CA Metr
 Vital Stats,Unemployment Rate Annualized,"San Francisco-Oakland-Hayward, CA Metro Area",2018 (2017 data),2018,0.033,3.30%,4,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"San Francisco-Oakland-Hayward, CA Metro Area",2019 (2018 data),2019,0.027,2.70%,1,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,0.0884,8.84%,10,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016.0,0.0884,8.84%,10.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017.0,0.0884,8.84%,10.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2018.0,2018.0,0.0884,8.84%,9.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2019.0,2019.0,0.0884,8.84%,9.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016,0.0884,8.84%,10.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017,0.0884,8.84%,10.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2018.0,2018,0.0884,8.84%,9.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2019.0,2019,0.0884,8.84%,9.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2015,2015,0.123,12.30%,12,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016.0,0.123,12.30%,12.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017.0,0.123,12.30%,12.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2018.0,2018.0,0.123,12.30%,12.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2019.0,2019.0,0.123,12.30%,12.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2016.0,2016,0.123,12.30%,12.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2017.0,2017,0.123,12.30%,12.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2018.0,2018,0.123,12.30%,12.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"San Francisco-Oakland-Hayward, CA Metro Area",2019.0,2019,0.123,12.30%,12.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"San Francisco-Oakland-Hayward, CA Metro Area",2015 (2013 data),2015,0.072,7.20%,3,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"San Francisco-Oakland-Hayward, CA Metro Area",2016 (2014 data),2016,0.066,6.60%,2,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"San Francisco-Oakland-Hayward, CA Metro Area",2017 (2015 data),2017,0.06809579985093585,6.81%,4,(lowest to highest),0,Percent
@@ -3661,15 +3589,15 @@ Vital Stats,Unemployment Rate Annualized,"Seattle-Tacoma-Bellevue, WA Metro Area
 Vital Stats,Unemployment Rate Annualized,"Seattle-Tacoma-Bellevue, WA Metro Area",2018 (2017 data),2018,0.041,4.10%,8,(lowest to highest),0,Percent
 Vital Stats,Unemployment Rate Annualized,"Seattle-Tacoma-Bellevue, WA Metro Area",2019 (2018 data),2019,0.039,3.90%,9,(lowest to highest),0,Percent
 Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,0.0,0.00%,1,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2018.0,2018.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2019.0,2019.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2018.0,2018,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Corporate Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2019.0,2019,0.0,0.00%,1.0,(highest to lowest),0,Percent
 Vital Stats,Top Tier Tax Rates Personal Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2015,2015,0.0,0.00%,1,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2018.0,2018.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
-Vital Stats,Top Tier Tax Rates Personal Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2019.0,2019.0,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2016.0,2016,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2017.0,2017,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2018.0,2018,0.0,0.00%,1.0,(highest to lowest),0,Percent
+Vital Stats,Top Tier Tax Rates Personal Income Tax,"Seattle-Tacoma-Bellevue, WA Metro Area",2019.0,2019,0.0,0.00%,1.0,(highest to lowest),0,Percent
 Vital Stats,Poverty Rate- White,"Seattle-Tacoma-Bellevue, WA Metro Area",2015 (2013 data),2015,0.093,9.30%,8,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Seattle-Tacoma-Bellevue, WA Metro Area",2016 (2014 data),2016,0.081,8.10%,7,(lowest to highest),0,Percent
 Vital Stats,Poverty Rate- White,"Seattle-Tacoma-Bellevue, WA Metro Area",2017 (2015 data),2017,0.07916596649720475,7.92%,9,(lowest to highest),0,Percent
